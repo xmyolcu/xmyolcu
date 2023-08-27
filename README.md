@@ -2,6 +2,10 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=merlovelace&left_color=black&right_color=black" />
 </div>
 
+<div align="center>
+![](https://github.com/merlovelace/https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
+</div>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=554D53&multiline=true&width=435&lines=If%2C+at+first%2C+you+do+not+succeed%2C+call+it+version+1.0." alt="Typing SVG" /></a>
 </div>
