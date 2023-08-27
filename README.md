@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate backend developer 👩🏻‍💻</h3>
 
+<br/>
+
 <div align="center"> 
   <a href="mailto:yollcumerve@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -20,3 +22,12 @@
     <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,golang,javascript,typescript,express,nest,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,intellij,git" />
+</div>
+
+
