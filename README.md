@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=merlovelace&left_color=pink&right_color=%23F94877" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=merlovelace&left_color=black&right_color=black" />
 </div>
 
 <div align="center">
