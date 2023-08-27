@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,golang,javascript,typescript,express,nest,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,intellij,git" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git" />
 </div>
 
 
