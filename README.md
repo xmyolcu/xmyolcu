@@ -16,4 +16,7 @@
  <!-- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
+   <a href="https://medium.com/@merpassenger" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
 </div>
