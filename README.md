@@ -2,4 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=554D53&multiline=true&width=435&lines=If%2C+at+first%2C+you+do+not+succeed%2C+call+it+version+1.0." alt="Typing SVG" /></a>
 
+<h1 align="center">
+    img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=554D53&multiline=true&width=435&lines=If%2C+at+first%2C+you+do+not+succeed%2C+call+it+version+1.0." alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A passionate backend developer 👩🏻‍💻</h3>
