@@ -6,7 +6,7 @@
 </div>
 
 
-<h3 align="center">A passionate backend developer 👩🏻‍💻</h3>
+<h3 align="center" style="color: black;">A passionate backend developer 👩🏻‍💻</h3>
 
 <br/>
 
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-<h2 align="center">🥂 Languages-Frameworks-Tools 🥂</h2>
+<h2 align="center" style="color: black;">🥂 Languages-Frameworks-Tools 🥂</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,golang,javascript,typescript,express,nest,mongodb" /><br>
