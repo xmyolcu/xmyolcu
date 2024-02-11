@@ -1,4 +1,4 @@
-![MasterHead](https://www.thequint.com/neon/social-buzz/marie-curie-viral-29-geniuses-photo-twitter)
+![MasterHead](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
 
 <h3 align="center">ROSES ARE RED AND VİOLETS ARE BLUE, UNEXPECTED '{' ON LİNE 32</h3>
 <div align="center">
