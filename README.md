@@ -1,4 +1,5 @@
-![MasterHead](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWT5XXHTWMI6XJRWDDFMLGUY3Q.jpg&w=916)
+![MasterHead](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
+
 <h3 align="center">ROSES ARE RED AND VİOLETS ARE BLUE, UNEXPECTED '{' ON LİNE 32</h3>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=merlovelace&left_color=black&right_color=black" />
