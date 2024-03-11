@@ -1,6 +1,6 @@
 # 👩🏻‍💻Mer Lovelace
 
-**`Lifelong Coder (Developer/Engineer Student/Girl in STEM Digital Creator)`**
+**`Lifelong Coder (Developer/Engineering Student/Girl in STEM Digital Creator)`**
 
 Hello! I am an explorer navigating the backend world, embarking on an adventurous journey into the depths of cloud technology. Continuous research, discovering and learning about new technologies are ingrained in my DNA. For me, coding is not just a job; it's also a form of art.
 
