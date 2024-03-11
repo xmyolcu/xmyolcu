@@ -31,6 +31,14 @@ Wishing you endless days filled with code!
 
 #
 
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlovelace&show_icons=true&theme=rose)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=merlave&theme=rose&border_radius=4.5) -->
+
+#
+
 ### 🗄️ Latest Medium Articles 
 
 <!-- BEGIN MEDIUM-CARDS -->
@@ -43,10 +51,4 @@ Wishing you endless days filled with code!
  <summary><h3>💃🏻 Mer's Coding Journey</h3></summary>
    Don't wait up, because I'm coming.
 
-### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlovelace&show_icons=true&theme=rose)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=merlave&theme=rose&border_radius=4.5) -->
-
-#
