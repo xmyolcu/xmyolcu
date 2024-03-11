@@ -35,15 +35,16 @@ Wishing you endless days filled with code!
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlovelace&show_icons=true&theme=rose)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=merlave&theme=rose&border_radius=4.5) -->
-
 #
 
 ### 🗄️ Latest Medium Articles 
 
 <!-- BEGIN MEDIUM-CARDS -->
+...REFACTORING
+<!-- 
 [![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@merlovelace&index=1&source=medium)](https://medium.com/@merlovelace/data-sanitization-node-js-d2491dba4953)
 [![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@merlovelace&index=0&source=medium)](https://medium.com/@merlovelace/zoom-integration-into-nodejs-app-2c72b731f5d6)
+-->
 <!-- END MEDIUM-CARDS -->
 #
 
