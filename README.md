@@ -1,45 +1,58 @@
-![MasterHead](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
+# 👩🏻‍💻Mer Lovelace
 
-<h3 align="center">ROSES ARE RED AND VİOLETS ARE BLUE, UNEXPECTED '{' ON LİNE 32</h3>
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=merlovelace&left_color=black&right_color=black" />
-</div>
+**`Lifelong Coder (Developer/Engineer Student/Girl in STEM Digital Creator)`**
 
+Hello! I am an explorer navigating the backend world, embarking on an adventurous journey into the depths of cloud technology. Continuous research, discovering and learning about new technologies are ingrained in my DNA. For me, coding is not just a job; it's also a form of art.
 
-<h3 align="center" style="color: black;">A passionate backend developer 👩🏻‍💻</h3>
+Sharing knowledge and contributing to the community are top priorities for me. In every learning experience, I enjoy sharing my new discoveries and solutions with fellow developers. Because true beauty emerges as we multiply and share knowledge.
 
-<br/>
+Wishing you endless days filled with code!
 
-<div align="center"> 
-  <a href="mailto:yollcumerve@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/merve-yolcu-546470243/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/> 
-  </a> -->
-   <a href="https://medium.com/@merpassenger" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
+---
 
-<h2 align="center" style="color: black;">🥂 Languages-Frameworks-Tools 🥂</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,golang,javascript,typescript,express,nest,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,git" />
-</div>
+### 🧰 Languages and Tools
 
-</br>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-line.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Nestjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-line-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+<img align="left" alt="Socket.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
 
-<div align="center">
-  <h2>🌳 My Contributions 🌳</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/merlovelace/merlovelace/output/github-contribution-grid-snake.svg"" />
-  
-  <br/><br/><br/>
-</div>
+<br />
 
+#
+
+### 🗄️ Latest Medium Articles
+
+<!-- BEGIN MEDIUM-CARDS -->
+[![Everything You NEED to Know about Web Scraping (Advanced)](https://ytcards.demolab.com/?id=vxk6YPRVg_o&title=Everything+You+NEED+to+Know+about+Web+Scraping+%28Advanced%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "Everything You NEED to Know about Web Scraping (Advanced)")](https://www.youtube.com/watch?v=vxk6YPRVg_o)
+[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)
+[![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.youtube.com/watch?v=cIvduLKs5uY)
+[![Merge Sort Visualized](https://ytcards.demolab.com/?id=MlyIGMOkL5s&title=Merge+Sort+Visualized&lang=en&timestamp=1706360421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Merge Sort Visualized")](https://www.youtube.com/watch?v=MlyIGMOkL5s)
+[![Software Engineers Make $171k](https://ytcards.demolab.com/?id=jv_0uhe2uz0&title=Software+Engineers+Make+%24171k&lang=en&timestamp=1706101240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Software Engineers Make $171k")](https://www.youtube.com/watch?v=jv_0uhe2uz0)
+[![3 Types of Algorithms Every Programmer Needs to Know](https://ytcards.demolab.com/?id=Uym4-KhP3Lc&title=3+Types+of+Algorithms+Every+Programmer+Needs+to+Know&lang=en&timestamp=1705935625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792 "3 Types of Algorithms Every Programmer Needs to Know")](https://www.youtube.com/watch?v=Uym4-KhP3Lc)
+<!-- END MEDIUM-CARDS -->
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlovelace&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=merlave&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>💃🏻 Mer's Coding Journey</h3></summary>
+   Don't wait up, because I'm coming.
 
