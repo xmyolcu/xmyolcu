@@ -31,9 +31,11 @@ Wishing you endless days filled with code!
 
 #
 
-### 🗄️ Latest Medium Articles
+### 🗄️ Latest Medium Articles 
 
 <!-- BEGIN MEDIUM-CARDS -->
+[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@merlovelace&index=1&source=medium)](#)
+[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@merlovelace&index=0&source=medium)](#)
 <!-- END MEDIUM-CARDS -->
 
 #
