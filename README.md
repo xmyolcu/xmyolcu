@@ -1,4 +1,4 @@
-# 👩🏻‍💻Mer Lovelace
+# 👩🏻‍💻Merve
 
 **`Lifelong Coder (Developer/Engineering Student/Girl in STEM Digital Creator)`**
 
