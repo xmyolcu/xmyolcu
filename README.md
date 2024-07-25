@@ -33,7 +33,7 @@ Wishing you endless days filled with code!
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlovelace&show_icons=true&theme=rose)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merpassenger&show_icons=true&theme=rose)
 
 #
 
@@ -48,13 +48,7 @@ Wishing you endless days filled with code!
 <!-- END MEDIUM-CARDS -->
 #
 
-<details>
- <summary><h3>💃🏻 Mer's Coding Journey</h3></summary>
-   I didn't know what software meant until I learned about coding on my computer, which was watching normal Netflix. My brain exploded when I learned about coding, and I wish I had learned it when I was 3 years old.
 
-My love for TBBT and Sheldon Cooper actually opened the doors to a new career for me in 2022, when I came across a TV server that was very similar to Sheldon Cooper. It didn't take long, but while searching for the company that the server belonged to, we found a job posting for a PHP Developer. Luckily, the developer was actually writing code. During those crazy times when I couldn't even use the keyboard, I was asking questions like what is software and what is a computer. I was constantly surrounded by good people who guided me in the right direction (the debate about whether becoming a backend developer is the right path), and by the beginning of 2022 September, I was opening an IDE and learning where the shift and delete keys were, and I started writing endpoints.
-
-Then came the crying, sleeping in the living room at night, and the months of feeling deprived, followed by the process of writing code like crazy. As a result, today I am a Computer Engineering student at a university. I'm actually in the preparatory class, but I think this is also part of my journey and a new beginning somewhere.
 
 
 
