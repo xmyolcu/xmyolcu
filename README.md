@@ -1,6 +1,6 @@
 # 👩🏻‍💻Merve
 
-**`Lifelong Coder (Developer/Engineering Student/Girl in STEM Digital Creator)`**
+**`Lifelong Coder (Developer/Engineering Student/Girl is lifelong learner)`**
 
 Wishing you endless days filled with code!
 
