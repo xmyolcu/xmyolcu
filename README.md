@@ -2,10 +2,6 @@
 
 **`Lifelong Coder (Developer/Engineering Student/Girl in STEM Digital Creator)`**
 
-Hello! I am an explorer navigating the backend world, embarking on an adventurous journey into the depths of cloud technology. Continuous research, discovering and learning about new technologies are ingrained in my DNA. For me, coding is not just a job; it's also a form of art.
-
-Sharing knowledge and contributing to the community are top priorities for me. In every learning experience, I enjoy sharing my new discoveries and solutions with fellow developers. Because true beauty emerges as we multiply and share knowledge.
-
 Wishing you endless days filled with code!
 
 ---
