@@ -27,10 +27,6 @@ Wishing you endless days filled with code!
 
 #
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=merpassenger&show_icons=true&theme=rose)
-
 #
 
 ### 🗄️ Latest Medium Articles 
